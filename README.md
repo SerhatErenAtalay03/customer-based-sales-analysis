@@ -1,4 +1,5 @@
-ENG)
+                Customer-Based Sales Analysis(Müşteri Bazlı Satış Raporu)
+
  🛍️ Customer-Based Sales Analysis
 
 This project was created to analyze and visualize customer-based sales data. Data was queried with SQL, and a visual dashboard was prepared with Power BI.
