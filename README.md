@@ -35,35 +35,4 @@ git clone https://github.com/SerhatErenAtalay03/customer-based-sales-analysis.gi
 
 --
 
- 🛍️ Müşteri Tabanlı Satış Analizi
-
-Bu proje müşteri tabanlı satış verilerini analiz etmek ve görselleştirmek için oluşturuldu. Veriler SQL ile sorgulandı ve Power BI ile görsel bir gösterge paneli hazırlandı.
-
-📊 Kullanılan Teknolojiler
-
-- **SQL** – Veri çıkarma ve sorgulama
-- **Power BI** – Veri görselleştirme ve gösterge paneli oluşturma
-- **Git ve GitHub** – Sürüm kontrolü ve proje paylaşımı
-
- 📌 Proje İçeriği
-
-- Toplam satışların müşteriye göre dağılımı
-- Müşteri başına sipariş sayısı
-- En çok satış yapan müşterilerin belirlenmesi
-- Kart görseliyle toplam satış tutarı
-- Tablo görseliyle müşteri ayrıntıları
-
- 🧠 Dosyalar
-
-| `SQLQuery.sql` | Müşteri-satışlarla ilgili verileri sorgulamak için kullanılan SQL betiği |
-| `.pbix` dosyası | Power BI rapor dosyası – görselleştirme içerir |
-| `README.md` | Proje açıklaması |
-
-
-🚀 Kurulum ve Kullanım
-1. Bu deponun kopyasını bilgisayarınıza kopyalayın:
-```bash
-git clone https://github.com/SerhatErenAtalay03/customer-based-sales-analysis.git
-
-
 
